@@ -8,12 +8,12 @@ author: The coding dog
 
 
 ```
-      npm install --lobal gatsby-cli
+      npm install --global gatsby-cli
 
       gatsby new blog
  ```
 
  ### Gatsbyjs is Awesome!
-
+*hey*
 
 I'm Hazel!! 
