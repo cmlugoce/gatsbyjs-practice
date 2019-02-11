@@ -37,6 +37,17 @@ progress {
 template {
   display: none;
 }
+
+.post-list:hover {
+  
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px #888888;
+    margin-bottom: 10px;
+
+  
+}
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
